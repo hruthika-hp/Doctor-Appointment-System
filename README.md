@@ -16,10 +16,10 @@ How to run the Doctor Appointment System Django Python
 
 6. Now Navigate to the Company Visitor Management System folder
    
-      cd docappsystem
+       cd docappsystem
 
 7. Run the Project using the following command
    
-      python manage.py runserver
+       python manage.py runserver
 
-      Now click the URL http://127.0.0.1:8000 and the Project will Run
+       Now click the URL http://127.0.0.1:8000 and the Project will Run
